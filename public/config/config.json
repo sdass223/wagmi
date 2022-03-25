@@ -7,12 +7,12 @@
     "ID": 1
   },
   "NFT_NAME": "Wagmi World NFT",
-  "SYMBOL": "WWNFT",
+  "SYMBOL": "Wagmi World",
   "MAX_SUPPLY": 7777,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "DISPLAY_COST":"0,065eth"
+ , "Gaslimit": 300000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/wagmiworld-v2",
+  "MARKETPLACE_LINK": "https://comingsoon",
   "SHOW_BACKGROUND": true
 }

@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x6dC933632f3E22F498Eb9ef5EDefC61C8768f382",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6dc933632f3e22f498eb9ef5edefc61c8768f382",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "Wagmi World NFT",
   "SYMBOL": "WWNFT",
